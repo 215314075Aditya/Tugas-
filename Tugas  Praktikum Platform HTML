@@ -1,9 +1,7 @@
 
 
 <head>
-    <audio autoplay loop>
-        <source src=" coba.mp3" type="audio/mp3">
-      </audio>
+    
       
     <title>Aditya Website</title>
 </head>
