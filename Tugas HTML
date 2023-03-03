@@ -1,0 +1,103 @@
+
+
+<head>
+    <audio autoplay loop>
+        <source src=" coba.mp3" type="audio/mp3">
+      </audio>
+      
+    <title>Aditya Website</title>
+</head>
+    <header 
+	<table width="1335px" align=center >
+	 <thead>
+<th><img src="adit.jpeg" width="300" height="500" alt="Foto Aditya Putra"/></th>
+		   
+                   
+            </thead>
+	</table>
+
+        <h1 ="color:White; background-color:RED;">Biodata ku :</h1>
+
+    </header>
+
+    <article align= center>
+        <h2><<<<<>>>>></font></h2>
+
+        <p>Nama   : Aditya Putra Wicaksana
+        <p>Umur   : 20 Tahun
+        <p>Alamat : Sutan Titang Jogonalan Klaten
+        <p>Hobi   : Menonton FIlm
+        <p>Agama  : Katholik
+
+        
+        </p>
+	<p style="background-color: forestgreen;">
+Nama Saya adalah Aditya Putra Wicaksana , saya tinggal di Sutan Titang Jogonalan Klaten , umur saya 20 Tahun , Hobi saya adalah menonton Film , agama saya adalah Katholik . keseharian saya
+adalah Belajar di Universitas Sanata Dharma , saya mengambil jurusan Informatika dan sekarang semester 4 . 
+	</p>
+
+    <p>
+    Berikut adalah Kepanitiaan yang sudah saya jalani hingga saat ini :
+    </p>
+    </article>
+ 
+	<table border=6 cellpadding=3 cellspacing=3 align=center>
+            <thead>
+                <tr>
+                    <th>Nama Kepanitiaan</th>
+                    <th>Tahun</th>
+                    <th>Jabatan</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Organiasi Tunas Mekar / Karang Taruna</li>
+                            <li>Organisasi Tunas Mekar / Karang Taruna</li>
+                            <li>Gereja</li>
+                            <li>Organisasi Tunas Mekar / Karang Taruna</li>
+                            <li>Pinissi</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>2022</li>
+                            <li>2022-2023</li>
+                            <li>2023</li>
+                            <li>2023</li>
+                            <li>2022</li>
+			    
+                        </ul>
+                    </td>
+		    <td>
+                        <ul>
+                            <li>Sie Acara Makrab</li>
+                            <li>Wakil Ketua Karang Taruna</li>
+                            <li>Wakil OMK Lingkungan</li>
+			                <li>Sie Acara Piknik </li>
+                            <li>Keamanan</li>
+                        </ul>
+                    </td>
+                </tr>
+            </tbody>
+	</font>
+        </table>
+
+    <p style=" background-color: aqua;">
+        Dari Organisasi dan Kepanitiaan yang sudah saya ikuti , saya mendapatkan berbagai pengalaman seperti menambah relasi,menambah ilmu,melatih kedisiplinan,melatih percaya diri. Lalu dari pengalaman di atas Kepanitian yang sangat berkesan menurut saya adalah  ketika mengikut organisasi Pinissi. 
+        karena didalam Kepanitiaan tersebut mendapatkan berbagai pengalaman yang unik,menyenangkan,menarik,menyedihkan,happy. saat Pinissi saya juga mempunyai teman baru dan pengalaman baru . 
+    </p>
+   
+    <p style=" background-color: blueviolet;">
+        PENGALAMANKU
+    </p>
+
+    <p align = right>Pengalaman yang tidak terlupakan saat ini adalah <u>Magang di PT YPTI</u></p>
+    <p> Pada Kelas 11 SMK Kemarin saya magang d PT YPTI . disana saya diajarkan untuk melihat bagaimana cara kerja mesin pembuat pipa . selain itu saya juga mengerjakan sebuah proyek yang bernama "Kursi disabilitas " yang berfungsi sebagai membantu orang yang menyandang disabilitas agar memudahkan untuk berpergian menggunakan 
+        mobil . 
+    </p>
+    <p> <a href=" https://instagram.com/_aditwicaksana?igshid=YzgyMTM2MGM="> ingin kenal lebih lanjut? Kunjungi My instagram coy klik aja !!</a></p>
+    
+</body>
+</html>
